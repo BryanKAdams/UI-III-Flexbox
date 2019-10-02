@@ -70,10 +70,13 @@ body{
 	padding: 0px 20px;
 	
 }
+.container{
+	position: fixed;
+}
 nav{
 	position: fixed;
 	top: 0px;
-	width: 100%;
+	width: 900px;
 	background-color: white;
 	display: flex;
 	justify-content: space-evenly;
@@ -211,4 +214,8 @@ li {
  }
  .padmetop{
 	 padding: 20px 0px 0px 0px;
+ }
+ .pagecontainer{
+	 width: 900px;
+	 margin: auto;
  }
