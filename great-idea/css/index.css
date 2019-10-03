@@ -159,9 +159,6 @@ section{
 .pic{
 	text-align: center;
 }
-.space{
-	margin-top: 20px;
-}
 .center{
 	display: flex;
 	justify-content: center;
